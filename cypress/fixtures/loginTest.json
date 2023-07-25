@@ -1,0 +1,8 @@
+{
+  "bad_email": "hello@cypress.io",
+  "bad_password": "Fixtures are a great",
+  "mainURL": "https://katalon-demo-cura.herokuapp.com/",
+  "email": "John Doe",
+  "password": "ThisIsNotAPassword",
+  "make_appointment_button": "#btn-make-appointment"
+}
